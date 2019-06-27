@@ -1,0 +1,5 @@
+<map id="MenuResultados::leiaTeclado" name="MenuResultados::leiaTeclado">
+<area shape="rect" id="node2" href="$class_controlador_de_resultados.html#a1e292a62f1fcdb61e80beb6a43bb8b20" title="Identifica os eventos da View. " alt="" coords="267,5,439,47"/>
+<area shape="rect" id="node3" href="$class_menu_resultados.html#a3ef3a17e00f7a86bb44b6ec8e70e387f" title="Desenha o menu na tela. " alt="" coords="248,71,457,98"/>
+<area shape="rect" id="node4" href="$class_controlador_de_resultados.html#a8e33b487fa68064f52b4e416a84b8add" title="Redesenha a tela do usuário. " alt="" coords="505,64,677,105"/>
+</map>

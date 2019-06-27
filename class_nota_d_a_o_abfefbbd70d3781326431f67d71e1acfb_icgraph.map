@@ -1,0 +1,5 @@
+<map id="NotaDAO::pegueTodasAsNotas" name="NotaDAO::pegueTodasAsNotas">
+<area shape="rect" id="node2" href="$class_nota_service.html#a3af6aad35d17369a667d49a9383bca84" title="Retorna todas as listas de notas. " alt="" coords="263,39,452,80"/>
+<area shape="rect" id="node3" href="$class_controlador_de_operacoes.html#a40402a1e236e4940cc9a5c94e755ccec" title="Redesenha a tela do usuário. " alt="" coords="501,5,671,47"/>
+<area shape="rect" id="node4" href="$class_controlador_de_resultados.html#a1e292a62f1fcdb61e80beb6a43bb8b20" title="Identifica os eventos da View. " alt="" coords="500,71,672,112"/>
+</map>

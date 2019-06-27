@@ -1,0 +1,20 @@
+<map id="src/Controller/ControladorDeOperacoes.cpp" name="src/Controller/ControladorDeOperacoes.cpp">
+<area shape="rect" id="node2" href="$_controlador_de_operacoes_8h.html" title="../../include/Controller\l/ControladorDeOperacoes.h" alt="" coords="879,95,1063,136"/>
+<area shape="rect" id="node5" href="$_menu_operacoes_8h.html" title="../View/MenuOperacoes.h" alt="" coords="508,661,681,688"/>
+<area shape="rect" id="node13" href="$_auxiliar_de_exibicao_de_informacoes_8h.html" title="../View/AuxiliarDeExibicao\lDeInformacoes.h" alt="" coords="1081,811,1258,852"/>
+<area shape="rect" id="node14" href="$_nota_8h.html" title="../Model/Nota.h" alt="" coords="1165,900,1277,927"/>
+<area shape="rect" id="node17" href="$_nota_service_8h.html" title="../Service/NotaService.h" alt="" coords="1059,661,1224,688"/>
+<area shape="rect" id="node22" href="$_controlador_8h.html" title="Controlador.h" alt="" coords="145,818,245,845"/>
+<area shape="rect" id="node23" href="$_processador_de_operacoes_service_8h.html" title="../Service/ProcessadorDe\lOperacoesService.h" alt="" coords="1390,184,1562,225"/>
+<area shape="rect" id="node25" href="$_processador_de_dados_service_8h.html" title="../Service/ProcessadorDe\lDadosService.h" alt="" coords="1339,572,1511,613"/>
+<area shape="rect" id="node6" href="$_menu_8h.html" title="Menu.h" alt="" coords="390,736,455,763"/>
+<area shape="rect" id="node9" href="$_view_8h.html" title="View.h" alt="" coords="393,818,455,845"/>
+<area shape="rect" id="node10" href="$_observador_8h.html" title="../Observador.h" alt="" coords="531,900,643,927"/>
+<area shape="rect" id="node11" href="$_evento_8h.html" title="../Evento.h" alt="" coords="230,900,317,927"/>
+<area shape="rect" id="node18" href="$_nota_d_a_o_8h.html" title="../Model/NotaDAO.h" alt="" coords="792,736,933,763"/>
+<area shape="rect" id="node19" href="$_model_8h.html" title="../Model/Model.h" alt="" coords="835,818,954,845"/>
+<area shape="rect" id="node24" href="$_operacao_8h.html" title="../Service/Operacao.h" alt="" coords="1513,497,1663,524"/>
+<area shape="rect" id="node28" href="$_decida_operacao_8h.html" title="../Service/DecidaOperacao.h" alt="" coords="1597,273,1787,300"/>
+<area shape="rect" id="node29" href="$_operacao_sincronizar_8h.html" title="../Service/OperacaoSincronizar.h" alt="" coords="1638,348,1853,375"/>
+<area shape="rect" id="node30" href="$_operacao_desdobrar_8h.html" title="../Service/OperacaoDesdobrar.h" alt="" coords="1615,423,1825,449"/>
+</map>

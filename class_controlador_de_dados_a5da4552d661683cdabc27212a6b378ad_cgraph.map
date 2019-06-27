@@ -1,0 +1,9 @@
+<map id="ControladorDeDados::atualizeTela" name="ControladorDeDados::atualizeTela">
+<area shape="rect" id="node2" href="$class_menu_dados.html#abd67dd5825bc0e35fb9a87ff917e667b" title="Desenha o menu na tela. " alt="" coords="197,107,379,133"/>
+<area shape="rect" id="node3" href="$class_menu.html#a569b47e1700311a4cb74abc7e08a5785" title="Desenha itens do menu. " alt="" coords="453,5,626,32"/>
+<area shape="rect" id="node4" href="$class_menu_dados.html#a37180b5244c59fac649bb3c159ff2774" title="Lê os dados do usuário. " alt="" coords="456,56,623,83"/>
+<area shape="rect" id="node5" href="$class_menu_dados.html#ae196ea3e6385eaa231e56f65ca875e71" title="Retorna dados lidos. " alt="" coords="427,107,652,133"/>
+<area shape="rect" id="node6" href="$class_menu_dados.html#adc41e0f6a409f740d48c40faeb613f54" title="Guarda o item de um menu. " alt="" coords="457,158,621,199"/>
+<area shape="rect" id="node8" href="$class_view.html#aa774c9b1d538067cf596b7f1b295dc7f" title="Envia eventos para as classes registradas. " alt="" coords="450,224,629,251"/>
+<area shape="rect" id="node7" href="$class_menu.html#a2624cab7001a349fee35f80375130876" title="Retorna opcao selecionada. " alt="" coords="700,165,887,192"/>
+</map>

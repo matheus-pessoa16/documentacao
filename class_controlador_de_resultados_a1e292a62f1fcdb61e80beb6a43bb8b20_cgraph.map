@@ -1,0 +1,11 @@
+<map id="ControladorDeResultados::identificadorDeEventos" name="ControladorDeResultados::identificadorDeEventos">
+<area shape="rect" id="node2" href="$class_menu_resultados.html#a4579e0224d698abf92ff289a3aadd3b5" title="Retorna dados lidos. " alt="" coords="233,5,441,47"/>
+<area shape="rect" id="node3" href="$class_nota_service.html#a3af6aad35d17369a667d49a9383bca84" title="Retorna todas as listas de notas. " alt="" coords="242,71,431,112"/>
+<area shape="rect" id="node5" href="$class_auxiliar_de_exibicao_de_informacoes.html#aa3392294716c6f6a8b67ebe73e981c66" title="Imprime um conjunto de listas. " alt="" coords="226,136,447,177"/>
+<area shape="rect" id="node7" href="$class_menu_resultados.html#a9c9b41291cae5e9bf98eecb1b37869dc" title="Lê os dados do usuário. " alt="" coords="239,202,434,229"/>
+<area shape="rect" id="node8" href="$class_nota_service.html#a3d63afdcf576660f7c0098516f830bc3" title="Retorna uma lista da memória. " alt="" coords="245,253,428,295"/>
+<area shape="rect" id="node10" href="$class_menu_resultados.html#a290b3d9d06238c2080d6cd596e009684" title="Exibe uma mensagem de erro. " alt="" coords="225,319,448,360"/>
+<area shape="rect" id="node4" href="$class_nota_d_a_o.html#abfefbbd70d3781326431f67d71e1acfb" title="Retorna todas as listas de notas. " alt="" coords="502,78,711,105"/>
+<area shape="rect" id="node6" href="$class_auxiliar_de_exibicao_de_informacoes.html#ac9cfea099a123a79032ab4c1728ea8db" title="Imprime uma lista na tela. " alt="" coords="496,136,717,177"/>
+<area shape="rect" id="node9" href="$class_nota_d_a_o.html#a03791a4aa6e8446c2a72c255b761aaf7" title="Retorna lista de notas. " alt="" coords="531,261,682,287"/>
+</map>

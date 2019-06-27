@@ -1,0 +1,5 @@
+<map id="MenuDados::pegueEntradaUsuario" name="MenuDados::pegueEntradaUsuario">
+<area shape="rect" id="node2" href="$class_controlador_de_dados.html#a9057fdb8e567f7403145f38bb441839f" title="Identifica os eventos da View. " alt="" coords="287,5,452,47"/>
+<area shape="rect" id="node3" href="$class_menu_dados.html#abd67dd5825bc0e35fb9a87ff917e667b" title="Desenha o menu na tela. " alt="" coords="279,71,460,98"/>
+<area shape="rect" id="node4" href="$class_controlador_de_dados.html#a5da4552d661683cdabc27212a6b378ad" title="Redesenha a tela do usuário. " alt="" coords="508,64,652,105"/>
+</map>

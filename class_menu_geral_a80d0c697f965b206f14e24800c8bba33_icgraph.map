@@ -1,0 +1,4 @@
+<map id="MenuGeral::item_menu_selecionado" name="MenuGeral::item_menu_selecionado">
+<area shape="rect" id="node2" href="$class_menu_geral.html#a5a7dc249106d122fbf99d052f713c26d" title="Desenha o menu na tela. " alt="" coords="211,13,385,39"/>
+<area shape="rect" id="node3" href="$class_controlador_do_menu_geral.html#a8f98b0cd2ae4fc131bdd5c49c3dbb646" title="Redesenha a tela do usuário. " alt="" coords="433,5,603,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="include/Service/OperacaoSincronizar.h" name="include/Service/OperacaoSincronizar.h">
+<area shape="rect" id="node2" href="$_operacao_8h.html" title="../Service/Operacao.h" alt="" coords="489,169,639,196"/>
+<area shape="rect" id="node18" href="$_operacao_desdobrar_8h.html" title="../Service/OperacaoDesdobrar.h" alt="" coords="738,95,947,121"/>
+<area shape="rect" id="node4" href="$_nota_8h.html" title="../Model/Nota.h" alt="" coords="5,557,117,584"/>
+<area shape="rect" id="node7" href="$_nota_service_8h.html" title="../Service/NotaService.h" alt="" coords="457,333,623,360"/>
+<area shape="rect" id="node15" href="$_processador_de_dados_service_8h.html" title="../Service/ProcessadorDe\lDadosService.h" alt="" coords="262,244,434,285"/>
+<area shape="rect" id="node8" href="$_nota_d_a_o_8h.html" title="../Model/NotaDAO.h" alt="" coords="361,408,503,435"/>
+<area shape="rect" id="node12" href="$_observador_8h.html" title="../Observador.h" alt="" coords="597,557,709,584"/>
+<area shape="rect" id="node10" href="$_model_8h.html" title="../Model/Model.h" alt="" coords="446,483,565,509"/>
+</map>

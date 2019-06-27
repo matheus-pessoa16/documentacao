@@ -1,0 +1,28 @@
+<map id="include/Service/NotaService.h" name="include/Service/NotaService.h">
+<area shape="rect" id="node2" href="$_controlador_de_dados_8h.html" title="include/Controller\l/ControladorDeDados.h" alt="" coords="281,169,439,211"/>
+<area shape="rect" id="node4" href="$_controlador_do_menu_geral_8h.html" title="include/Controller\l/ControladorDoMenuGeral.h" alt="" coords="5,780,189,821"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="925,877,1022,903"/>
+<area shape="rect" id="node9" href="$_processador_de_dados_service_8h.html" title="include/Service/Processador\lDeDadosService.h" alt="" coords="1065,80,1253,121"/>
+<area shape="rect" id="node10" href="$_operacao_8h.html" title="include/Service/Operacao.h" alt="" coords="733,177,915,203"/>
+<area shape="rect" id="node11" href="$_processador_de_operacoes_service_8h.html" title="include/Service/Processador\lDeOperacoesService.h" alt="" coords="851,512,1039,553"/>
+<area shape="rect" id="node12" href="$_controlador_de_operacoes_8h.html" title="include/Controller\l/ControladorDeOperacoes.h" alt="" coords="976,601,1160,643"/>
+<area shape="rect" id="node22" href="$_processador_de_resultados_service_8h.html" title="include/Service/Processador\lDeResultadosService.h" alt="" coords="1475,169,1663,211"/>
+<area shape="rect" id="node23" href="$_controlador_de_resultados_8h.html" title="include/Controller\l/ControladorDeResultados.h" alt="" coords="1269,259,1456,300"/>
+<area shape="rect" id="node27" href="$_nota_service_8cpp.html" title="src/Service/NotaService.cpp" alt="" coords="1739,87,1928,114"/>
+<area shape="rect" id="node3" href="$_decida_controlador_8h.html" title="include/Service/DecidaControlador.h" alt="" coords="499,698,733,725"/>
+<area shape="rect" id="node8" href="$_controlador_de_dados_8cpp.html" title="src/Controller/Controlador\lDeDados.cpp" alt="" coords="275,259,445,300"/>
+<area shape="rect" id="node7" href="$_decida_controlador_8cpp.html" title="src/Service/DecidaControlador.cpp" alt="" coords="503,787,729,814"/>
+<area shape="rect" id="node5" href="$_controlador_do_menu_geral_8cpp.html" title="src/Controller/Controlador\lDoMenuGeral.cpp" alt="" coords="12,869,183,911"/>
+<area shape="rect" id="node26" href="$_processador_de_dados_service_8cpp.html" title="src/Service/ProcessadorDe\lDadosService.cpp" alt="" coords="1166,169,1349,211"/>
+<area shape="rect" id="node15" href="$_operacao_sincronizar_8h.html" title="include/Service/Operacao\lSincronizar.h" alt="" coords="403,348,573,389"/>
+<area shape="rect" id="node19" href="$_operacao_desdobrar_8h.html" title="include/Service/Operacao\lDesdobrar.h" alt="" coords="717,259,888,300"/>
+<area shape="rect" id="node21" href="$_operacao_8cpp.html" title="src/Service/Operacao.cpp" alt="" coords="520,266,693,293"/>
+<area shape="rect" id="node14" href="$_processador_de_operacoes_service_8cpp.html" title="src/Service/ProcessadorDe\lOperacoesService.cpp" alt="" coords="769,601,951,643"/>
+<area shape="rect" id="node13" href="$_controlador_de_operacoes_8cpp.html" title="src/Controller/Controlador\lDeOperacoes.cpp" alt="" coords="1011,691,1181,732"/>
+<area shape="rect" id="node16" href="$_decida_operacao_8h.html" title="include/Service/DecidaOperacao.h" alt="" coords="651,437,874,464"/>
+<area shape="rect" id="node18" href="$_operacao_sincronizar_8cpp.html" title="src/Service/OperacaoSincronizar.cpp" alt="" coords="369,437,607,464"/>
+<area shape="rect" id="node17" href="$_decida_operacao_8cpp.html" title="src/Service/DecidaOperacao.cpp" alt="" coords="613,519,827,546"/>
+<area shape="rect" id="node20" href="$_operacao_desdobrar_8cpp.html" title="src/Service/OperacaoDesdobrar.cpp" alt="" coords="598,355,831,382"/>
+<area shape="rect" id="node25" href="$_processador_de_resultados_service_8cpp.html" title="src/Service/ProcessadorDe\lResultadosService.cpp" alt="" coords="1481,259,1663,300"/>
+<area shape="rect" id="node24" href="$_controlador_de_resultados_8cpp.html" title="src/Controller/Controlador\lDeResultados.cpp" alt="" coords="1285,348,1456,389"/>
+</map>

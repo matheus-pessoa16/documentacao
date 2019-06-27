@@ -1,0 +1,8 @@
+<map id="Controlador" name="Controlador">
+<area shape="rect" id="node4" href="$class_controlador_de_dados.html" title="Controlador responsável pela entrada de dados. " alt="" coords="5,344,183,509"/>
+<area shape="rect" id="node5" href="$class_controlador_de_operacoes.html" title="Controlador responsável pelas operações do programa. " alt="" coords="207,351,405,502"/>
+<area shape="rect" id="node6" href="$class_controlador_de_resultados.html" title="Controlador responsável pelas saídas do programa. " alt="" coords="429,351,629,502"/>
+<area shape="rect" id="node7" href="$class_controlador_do_menu_geral.html" title="Controlador inicial que gerencia as opções do programa. " alt="" coords="653,344,850,509"/>
+<area shape="rect" id="node2" href="$class_evento.html" title="Classe abstrata que define os eventos do sistema. " alt="" coords="237,5,415,83"/>
+<area shape="rect" id="node3" href="$class_observador.html" title="Classe abstrata que define os observadores. " alt="" coords="439,5,576,83"/>
+</map>

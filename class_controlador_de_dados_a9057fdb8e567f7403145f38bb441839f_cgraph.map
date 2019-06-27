@@ -1,0 +1,14 @@
+<map id="ControladorDeDados::identificadorDeEventos" name="ControladorDeDados::identificadorDeEventos">
+<area shape="rect" id="node2" href="$class_menu_dados.html#ae196ea3e6385eaa231e56f65ca875e71" title="Retorna dados lidos. " alt="" coords="219,49,444,75"/>
+<area shape="rect" id="node3" href="$class_processador_de_dados_service.html#acad99e69bc687e91be00adc63cfa497c" title="Transforma string em notas. " alt="" coords="234,100,429,141"/>
+<area shape="rect" id="node9" href="$class_nota_service.html#a44d28a354477374be902599b1358c0bd" title="Adiciona uma lista na memória. " alt="" coords="242,195,421,236"/>
+<area shape="rect" id="node4" href="$class_processador_de_dados_service.html#ab8457084784154deae6bfb093f0f0705" title="Apaga os valores das listas internas. " alt="" coords="511,5,705,47"/>
+<area shape="rect" id="node5" href="$class_processador_de_dados_service.html#ad929adb48cc464cbd680c5414c7fc97a" title="Transforma string em lista de alturas. " alt="" coords="511,71,705,112"/>
+<area shape="rect" id="node7" href="$class_processador_de_dados_service.html#ac196e3523fffbef18e73cb93f865f3a1" title="Transforma string em lista de durações. " alt="" coords="511,136,705,177"/>
+<area shape="rect" id="node6" href="$class_nota.html#a853ec2c5655429c75649e33ef95516ab" title="Atribui uma altura a nota. " alt="" coords="794,78,925,105"/>
+<area shape="rect" id="node8" href="$class_nota.html#a8e54739e94259cb056726d614b35d8e4" title="Atribui uma duração a nota. " alt="" coords="786,143,933,170"/>
+<area shape="rect" id="node10" href="$class_nota_d_a_o.html#a5390c5fc9a4f0225d00568b48bd0c693" title="Salva registros no banco. " alt="" coords="547,202,669,229"/>
+<area shape="rect" id="node13" href="$class_nota_service.html#a0cff8e23d08700905679654800a8b03a" title="Notifica mudanças aos observadores registrados. " alt="" coords="492,253,724,279"/>
+<area shape="rect" id="node11" href="$class_nota.html#a3c1869301ffd4c83c8f67f92c4b003be" title="Retorna o identificador da nota. " alt="" coords="807,198,911,225"/>
+<area shape="rect" id="node12" href="$class_model.html#a71c929a028a47ac3cde689900471d6d7" title="Notifica mudanças aos observadores registrados. " alt="" coords="772,249,947,275"/>
+</map>

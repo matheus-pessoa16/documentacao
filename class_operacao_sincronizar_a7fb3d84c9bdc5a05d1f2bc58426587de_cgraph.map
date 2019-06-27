@@ -1,0 +1,9 @@
+<map id="OperacaoSincronizar::executeOperacao" name="OperacaoSincronizar::executeOperacao">
+<area shape="rect" id="node2" href="$class_nota_service.html#a3d63afdcf576660f7c0098516f830bc3" title="Retorna uma lista da memória. " alt="" coords="481,72,664,113"/>
+<area shape="rect" id="node4" href="$class_operacao.html#a25d011e843527c292dc760168bf7411d" title="Operacao::mmc" alt="" coords="257,42,372,68"/>
+<area shape="rect" id="node5" href="$class_processador_de_dados_service.html#a5d0413559bd8a9bc2d55c7525ed4ec2b" title="Transforma string em lista de qualidades. " alt="" coords="196,93,433,134"/>
+<area shape="rect" id="node6" href="$class_operacao_desdobrar.html#a358a6f72fc7befe36b40f4333a478377" title="Retorna o resultado da operação. " alt="" coords="241,158,388,200"/>
+<area shape="rect" id="node7" href="$class_nota.html#a853ec2c5655429c75649e33ef95516ab" title="Atribui uma altura a nota. " alt="" coords="249,224,380,251"/>
+<area shape="rect" id="node8" href="$class_nota.html#a8e54739e94259cb056726d614b35d8e4" title="Atribui uma duração a nota. " alt="" coords="241,275,388,302"/>
+<area shape="rect" id="node3" href="$class_nota_d_a_o.html#a03791a4aa6e8446c2a72c255b761aaf7" title="Retorna lista de notas. " alt="" coords="712,79,863,106"/>
+</map>

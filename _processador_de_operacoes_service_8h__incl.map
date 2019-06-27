@@ -1,0 +1,12 @@
+<map id="include/Service/ProcessadorDeOperacoesService.h" name="include/Service/ProcessadorDeOperacoesService.h">
+<area shape="rect" id="node2" href="$_nota_service_8h.html" title="NotaService.h" alt="" coords="290,483,395,509"/>
+<area shape="rect" id="node10" href="$_nota_8h.html" title="../Model/Nota.h" alt="" coords="448,707,560,733"/>
+<area shape="rect" id="node14" href="$_operacao_8h.html" title="../Service/Operacao.h" alt="" coords="753,319,902,345"/>
+<area shape="rect" id="node15" href="$_processador_de_dados_service_8h.html" title="../Service/ProcessadorDe\lDadosService.h" alt="" coords="599,393,771,435"/>
+<area shape="rect" id="node18" href="$_decida_operacao_8h.html" title="../Service/DecidaOperacao.h" alt="" coords="858,95,1048,121"/>
+<area shape="rect" id="node3" href="$_nota_d_a_o_8h.html" title="../Model/NotaDAO.h" alt="" coords="148,557,289,584"/>
+<area shape="rect" id="node9" href="$_observador_8h.html" title="../Observador.h" alt="" coords="105,707,217,733"/>
+<area shape="rect" id="node7" href="$_model_8h.html" title="../Model/Model.h" alt="" coords="199,632,318,659"/>
+<area shape="rect" id="node19" href="$_operacao_sincronizar_8h.html" title="../Service/OperacaoSincronizar.h" alt="" coords="772,169,987,196"/>
+<area shape="rect" id="node20" href="$_operacao_desdobrar_8h.html" title="../Service/OperacaoDesdobrar.h" alt="" coords="916,244,1126,271"/>
+</map>

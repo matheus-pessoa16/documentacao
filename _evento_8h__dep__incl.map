@@ -1,0 +1,26 @@
+<map id="include/Evento.h" name="include/Evento.h">
+<area shape="rect" id="node2" href="$_controlador_8h.html" title="include/Controller\l/Controlador.h" alt="" coords="372,229,495,271"/>
+<area shape="rect" id="node5" href="$_controlador_do_menu_geral_8h.html" title="include/Controller\l/ControladorDoMenuGeral.h" alt="" coords="5,497,189,539"/>
+<area shape="rect" id="node14" href="$_view_8h.html" title="include/View/View.h" alt="" coords="651,80,791,107"/>
+<area shape="rect" id="node3" href="$_controlador_de_dados_8h.html" title="include/Controller\l/ControladorDeDados.h" alt="" coords="1083,319,1242,360"/>
+<area shape="rect" id="node4" href="$_decida_controlador_8h.html" title="include/Service/DecidaControlador.h" alt="" coords="635,415,869,442"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="483,594,581,621"/>
+<area shape="rect" id="node10" href="$_controlador_de_operacoes_8h.html" title="include/Controller\l/ControladorDeOperacoes.h" alt="" coords="875,319,1059,360"/>
+<area shape="rect" id="node12" href="$_controlador_de_resultados_8h.html" title="include/Controller\l/ControladorDeResultados.h" alt="" coords="389,319,576,360"/>
+<area shape="rect" id="node9" href="$_controlador_de_dados_8cpp.html" title="src/Controller/Controlador\lDeDados.cpp" alt="" coords="1139,408,1309,449"/>
+<area shape="rect" id="node8" href="$_decida_controlador_8cpp.html" title="src/Service/DecidaControlador.cpp" alt="" coords="639,505,865,531"/>
+<area shape="rect" id="node6" href="$_controlador_do_menu_geral_8cpp.html" title="src/Controller/Controlador\lDoMenuGeral.cpp" alt="" coords="12,587,183,628"/>
+<area shape="rect" id="node11" href="$_controlador_de_operacoes_8cpp.html" title="src/Controller/Controlador\lDeOperacoes.cpp" alt="" coords="944,408,1115,449"/>
+<area shape="rect" id="node13" href="$_controlador_de_resultados_8cpp.html" title="src/Controller/Controlador\lDeResultados.cpp" alt="" coords="389,408,560,449"/>
+<area shape="rect" id="node15" href="$_menu_8h.html" title="include/View/Menu.h" alt="" coords="650,155,793,181"/>
+<area shape="rect" id="node25" href="$_view_8cpp.html" title="src/View/View.cpp" alt="" coords="817,155,948,181"/>
+<area shape="rect" id="node16" href="$_menu_dados_8h.html" title="include/View/MenuDados.h" alt="" coords="1143,237,1324,263"/>
+<area shape="rect" id="node18" href="$_menu_operacoes_8h.html" title="include/View/MenuOperacoes.h" alt="" coords="911,237,1118,263"/>
+<area shape="rect" id="node20" href="$_menu_resultados_8h.html" title="include/View/MenuResultados.h" alt="" coords="519,237,729,263"/>
+<area shape="rect" id="node22" href="$_menu_geral_8h.html" title="include/View/MenuGeral.h" alt="" coords="139,415,314,442"/>
+<area shape="rect" id="node24" href="$_menu_8cpp.html" title="src/View/Menu.cpp" alt="" coords="753,237,887,263"/>
+<area shape="rect" id="node17" href="$_menu_dados_8cpp.html" title="src/View/MenuDados.cpp" alt="" coords="1489,326,1661,353"/>
+<area shape="rect" id="node19" href="$_menu_operacoes_8cpp.html" title="src/View/MenuOperacoes.cpp" alt="" coords="1267,326,1464,353"/>
+<area shape="rect" id="node21" href="$_menu_resultados_8cpp.html" title="src/View/MenuResultados.cpp" alt="" coords="651,326,851,353"/>
+<area shape="rect" id="node23" href="$_menu_geral_8cpp.html" title="src/View/MenuGeral.cpp" alt="" coords="264,505,429,531"/>
+</map>

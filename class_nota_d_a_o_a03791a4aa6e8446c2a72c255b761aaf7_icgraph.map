@@ -1,0 +1,6 @@
+<map id="NotaDAO::pegueNota" name="NotaDAO::pegueNota">
+<area shape="rect" id="node2" href="$class_nota_service.html#a3d63afdcf576660f7c0098516f830bc3" title="Retorna uma lista da memória. " alt="" coords="204,71,387,112"/>
+<area shape="rect" id="node3" href="$class_controlador_de_resultados.html#a1e292a62f1fcdb61e80beb6a43bb8b20" title="Identifica os eventos da View. " alt="" coords="435,5,607,47"/>
+<area shape="rect" id="node4" href="$class_operacao_desdobrar.html#a358a6f72fc7befe36b40f4333a478377" title="Retorna o resultado da operação. " alt="" coords="447,71,594,112"/>
+<area shape="rect" id="node5" href="$class_operacao_sincronizar.html#a7fb3d84c9bdc5a05d1f2bc58426587de" title="Retorna o resultado da operação. " alt="" coords="655,100,797,141"/>
+</map>

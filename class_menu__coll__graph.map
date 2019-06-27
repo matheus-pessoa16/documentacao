@@ -1,0 +1,4 @@
+<map id="Menu" name="Menu">
+<area shape="rect" id="node2" href="$class_view.html" title="Classe abstrata base das Views. " alt="" coords="8,131,169,267"/>
+<area shape="rect" id="node3" href="$class_observador.html" title="Classe abstrata que define os observadores. " alt="" coords="20,5,157,83"/>
+</map>

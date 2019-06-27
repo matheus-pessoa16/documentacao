@@ -1,0 +1,4 @@
+<map id="MenuDados::leiaTeclado" name="MenuDados::leiaTeclado">
+<area shape="rect" id="node2" href="$class_menu_dados.html#abd67dd5825bc0e35fb9a87ff917e667b" title="Desenha o menu na tela. " alt="" coords="220,13,401,39"/>
+<area shape="rect" id="node3" href="$class_controlador_de_dados.html#a5da4552d661683cdabc27212a6b378ad" title="Redesenha a tela do usuário. " alt="" coords="449,5,593,47"/>
+</map>

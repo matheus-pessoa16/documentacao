@@ -1,0 +1,8 @@
+<map id="Menu" name="Menu">
+<area shape="rect" id="node4" href="$class_menu_dados.html" title="Menu para leitura de dados. " alt="" coords="5,587,188,781"/>
+<area shape="rect" id="node5" href="$class_menu_geral.html" title="Menu que apresenta as opções do programa. " alt="" coords="212,587,395,781"/>
+<area shape="rect" id="node6" href="$class_menu_operacoes.html" title="Menu que apresenta as operações. " alt="" coords="419,587,601,781"/>
+<area shape="rect" id="node7" href="$class_menu_resultados.html" title="Menu que apresenta resultados. " alt="" coords="625,587,808,781"/>
+<area shape="rect" id="node2" href="$class_view.html" title="Classe abstrata base das Views. " alt="" coords="325,131,487,267"/>
+<area shape="rect" id="node3" href="$class_observador.html" title="Classe abstrata que define os observadores. " alt="" coords="337,5,475,83"/>
+</map>

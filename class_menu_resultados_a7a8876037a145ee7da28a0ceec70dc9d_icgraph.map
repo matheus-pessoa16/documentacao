@@ -1,0 +1,4 @@
+<map id="MenuResultados::item_menu_selecionado" name="MenuResultados::item_menu_selecionado">
+<area shape="rect" id="node2" href="$class_menu_resultados.html#a3ef3a17e00f7a86bb44b6ec8e70e387f" title="Desenha o menu na tela. " alt="" coords="207,13,416,39"/>
+<area shape="rect" id="node3" href="$class_controlador_de_resultados.html#a8e33b487fa68064f52b4e416a84b8add" title="Redesenha a tela do usuário. " alt="" coords="464,5,636,47"/>
+</map>

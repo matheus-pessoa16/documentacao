@@ -1,0 +1,4 @@
+<map id="MenuDados::item_menu_selecionado" name="MenuDados::item_menu_selecionado">
+<area shape="rect" id="node2" href="$class_menu_dados.html#abd67dd5825bc0e35fb9a87ff917e667b" title="Desenha o menu na tela. " alt="" coords="217,13,399,39"/>
+<area shape="rect" id="node3" href="$class_controlador_de_dados.html#a5da4552d661683cdabc27212a6b378ad" title="Redesenha a tela do usuário. " alt="" coords="447,5,591,47"/>
+</map>

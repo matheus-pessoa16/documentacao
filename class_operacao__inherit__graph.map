@@ -1,0 +1,4 @@
+<map id="Operacao" name="Operacao">
+<area shape="rect" id="node2" href="$class_operacao_desdobrar.html" title="Classe que implementa o desdobramento. " alt="" coords="5,175,172,281"/>
+<area shape="rect" id="node3" href="$class_operacao_sincronizar.html" title="Classe que implementa a sincronização. " alt="" coords="197,175,367,281"/>
+</map>

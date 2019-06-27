@@ -1,0 +1,13 @@
+<map id="ControladorDeOperacoes::atualizeTela" name="ControladorDeOperacoes::atualizeTela">
+<area shape="rect" id="node2" href="$class_menu_operacoes.html#ac93af048caa35259676fb71189115489" title="Desenha o menu na tela. " alt="" coords="230,5,437,32"/>
+<area shape="rect" id="node4" href="$class_menu_operacoes.html#a8996917254a4350c276218575786d0b3" title="Lê os dados do usuário. " alt="" coords="238,56,429,83"/>
+<area shape="rect" id="node5" href="$class_menu_operacoes.html#abd2f6f5cc01f891f7e332f8d5d665ee9" title="Retorna dados lidos. " alt="" coords="231,107,436,149"/>
+<area shape="rect" id="node6" href="$class_menu_operacoes.html#adbb40852738c6a5119adc6f56a12268f" title="Guarda o item de um menu. " alt="" coords="258,173,409,214"/>
+<area shape="rect" id="node8" href="$class_nota_service.html#a3af6aad35d17369a667d49a9383bca84" title="Retorna todas as listas de notas. " alt="" coords="239,238,428,279"/>
+<area shape="rect" id="node10" href="$class_auxiliar_de_exibicao_de_informacoes.html#aa3392294716c6f6a8b67ebe73e981c66" title="Imprime um conjunto de listas. " alt="" coords="223,303,444,345"/>
+<area shape="rect" id="node12" href="$class_view.html#aa774c9b1d538067cf596b7f1b295dc7f" title="Envia eventos para as classes registradas. " alt="" coords="244,369,423,396"/>
+<area shape="rect" id="node3" href="$class_menu.html#a569b47e1700311a4cb74abc7e08a5785" title="Desenha itens do menu. " alt="" coords="516,5,689,32"/>
+<area shape="rect" id="node7" href="$class_menu.html#a2624cab7001a349fee35f80375130876" title="Retorna opcao selecionada. " alt="" coords="509,180,696,207"/>
+<area shape="rect" id="node9" href="$class_nota_d_a_o.html#abfefbbd70d3781326431f67d71e1acfb" title="Retorna todas as listas de notas. " alt="" coords="498,245,707,272"/>
+<area shape="rect" id="node11" href="$class_auxiliar_de_exibicao_de_informacoes.html#ac9cfea099a123a79032ab4c1728ea8db" title="Imprime uma lista na tela. " alt="" coords="492,303,713,345"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="NotaDAO::salvar" name="NotaDAO::salvar">
+<area shape="rect" id="node2" href="$class_nota.html#a3c1869301ffd4c83c8f67f92c4b003be" title="Retorna o identificador da nota. " alt="" coords="211,5,315,32"/>
+<area shape="rect" id="node3" href="$class_model.html#a71c929a028a47ac3cde689900471d6d7" title="Notifica mudanças aos observadores registrados. " alt="" coords="176,56,351,83"/>
+</map>

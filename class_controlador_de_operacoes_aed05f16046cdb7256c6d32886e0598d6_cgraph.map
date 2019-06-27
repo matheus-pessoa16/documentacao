@@ -1,0 +1,11 @@
+<map id="ControladorDeOperacoes::identificadorDeEventos" name="ControladorDeOperacoes::identificadorDeEventos">
+<area shape="rect" id="node2" href="$class_processador_de_dados_service.html#a5d0413559bd8a9bc2d55c7525ed4ec2b" title="Transforma string em lista de qualidades. " alt="" coords="223,5,460,47"/>
+<area shape="rect" id="node3" href="$class_processador_de_operacoes_service.html#a04e00db4f48dc2fb9fa15ac078e73e98" title="Retorna o resultado da operação. " alt="" coords="232,71,451,112"/>
+<area shape="rect" id="node6" href="$class_nota_service.html#a44d28a354477374be902599b1358c0bd" title="Adiciona uma lista na memória. " alt="" coords="252,136,431,177"/>
+<area shape="rect" id="node4" href="$class_decida_operacao.html#ab4210cef7f797304da120f27966fb9d6" title="Retorna uma operação. " alt="" coords="513,34,735,61"/>
+<area shape="rect" id="node5" href="$class_operacao.html#a039b02faa3779ff6ad77a0c0a957b85a" title="Retorna o resultado da operação. " alt="" coords="530,85,718,111"/>
+<area shape="rect" id="node7" href="$class_nota_d_a_o.html#a5390c5fc9a4f0225d00568b48bd0c693" title="Salva registros no banco. " alt="" coords="563,139,685,166"/>
+<area shape="rect" id="node10" href="$class_nota_service.html#a0cff8e23d08700905679654800a8b03a" title="Notifica mudanças aos observadores registrados. " alt="" coords="508,190,740,217"/>
+<area shape="rect" id="node8" href="$class_nota.html#a3c1869301ffd4c83c8f67f92c4b003be" title="Retorna o identificador da nota. " alt="" coords="823,114,927,141"/>
+<area shape="rect" id="node9" href="$class_model.html#a71c929a028a47ac3cde689900471d6d7" title="Notifica mudanças aos observadores registrados. " alt="" coords="788,165,963,191"/>
+</map>

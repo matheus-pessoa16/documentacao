@@ -1,0 +1,10 @@
+<map id="include/View/MenuOperacoes.h" name="include/View/MenuOperacoes.h">
+<area shape="rect" id="node2" href="$_controlador_de_operacoes_8h.html" title="include/Controller\l/ControladorDeOperacoes.h" alt="" coords="384,80,568,121"/>
+<area shape="rect" id="node9" href="$_menu_operacoes_8cpp.html" title="src/View/MenuOperacoes.cpp" alt="" coords="592,87,789,114"/>
+<area shape="rect" id="node3" href="$_decida_controlador_8h.html" title="include/Service/DecidaControlador.h" alt="" coords="204,177,439,203"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="317,355,414,382"/>
+<area shape="rect" id="node8" href="$_controlador_de_operacoes_8cpp.html" title="src/Controller/Controlador\lDeOperacoes.cpp" alt="" coords="513,169,684,211"/>
+<area shape="rect" id="node4" href="$_controlador_do_menu_geral_8h.html" title="include/Controller\l/ControladorDoMenuGeral.h" alt="" coords="5,259,189,300"/>
+<area shape="rect" id="node7" href="$_decida_controlador_8cpp.html" title="src/Service/DecidaControlador.cpp" alt="" coords="214,266,439,293"/>
+<area shape="rect" id="node5" href="$_controlador_do_menu_geral_8cpp.html" title="src/Controller/Controlador\lDoMenuGeral.cpp" alt="" coords="12,348,183,389"/>
+</map>

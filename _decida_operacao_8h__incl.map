@@ -1,0 +1,11 @@
+<map id="include/Service/DecidaOperacao.h" name="include/Service/DecidaOperacao.h">
+<area shape="rect" id="node2" href="$_operacao_sincronizar_8h.html" title="../Service/OperacaoSincronizar.h" alt="" coords="767,80,982,107"/>
+<area shape="rect" id="node19" href="$_operacao_desdobrar_8h.html" title="../Service/OperacaoDesdobrar.h" alt="" coords="913,155,1122,181"/>
+<area shape="rect" id="node3" href="$_operacao_8h.html" title="../Service/Operacao.h" alt="" coords="657,229,807,256"/>
+<area shape="rect" id="node5" href="$_nota_8h.html" title="../Model/Nota.h" alt="" coords="59,617,171,644"/>
+<area shape="rect" id="node8" href="$_nota_service_8h.html" title="../Service/NotaService.h" alt="" coords="368,393,533,420"/>
+<area shape="rect" id="node16" href="$_processador_de_dados_service_8h.html" title="../Service/ProcessadorDe\lDadosService.h" alt="" coords="557,304,729,345"/>
+<area shape="rect" id="node9" href="$_nota_d_a_o_8h.html" title="../Model/NotaDAO.h" alt="" coords="376,468,517,495"/>
+<area shape="rect" id="node13" href="$_observador_8h.html" title="../Observador.h" alt="" coords="245,617,357,644"/>
+<area shape="rect" id="node11" href="$_model_8h.html" title="../Model/Model.h" alt="" coords="297,543,415,569"/>
+</map>

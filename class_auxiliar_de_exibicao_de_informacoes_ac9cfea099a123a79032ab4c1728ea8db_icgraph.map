@@ -1,0 +1,5 @@
+<map id="AuxiliarDeExibicaoDeInformacoes::imprimaListaNaTela" name="AuxiliarDeExibicaoDeInformacoes::imprimaListaNaTela">
+<area shape="rect" id="node2" href="$class_auxiliar_de_exibicao_de_informacoes.html#aa3392294716c6f6a8b67ebe73e981c66" title="Imprime um conjunto de listas. " alt="" coords="275,39,496,80"/>
+<area shape="rect" id="node3" href="$class_controlador_de_operacoes.html#a40402a1e236e4940cc9a5c94e755ccec" title="Redesenha a tela do usuário. " alt="" coords="545,5,715,47"/>
+<area shape="rect" id="node4" href="$class_controlador_de_resultados.html#a1e292a62f1fcdb61e80beb6a43bb8b20" title="Identifica os eventos da View. " alt="" coords="544,71,716,112"/>
+</map>

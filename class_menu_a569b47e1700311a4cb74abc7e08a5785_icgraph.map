@@ -1,0 +1,10 @@
+<map id="Menu::mostreItensNaTela" name="Menu::mostreItensNaTela">
+<area shape="rect" id="node2" href="$class_menu_dados.html#abd67dd5825bc0e35fb9a87ff917e667b" title="Desenha o menu na tela. " alt="" coords="241,22,422,49"/>
+<area shape="rect" id="node4" href="$class_menu_geral.html#a5a7dc249106d122fbf99d052f713c26d" title="Desenha o menu na tela. " alt="" coords="244,82,419,109"/>
+<area shape="rect" id="node6" href="$class_menu_operacoes.html#ac93af048caa35259676fb71189115489" title="Desenha o menu na tela. " alt="" coords="228,137,435,163"/>
+<area shape="rect" id="node8" href="$class_menu_resultados.html#a3ef3a17e00f7a86bb44b6ec8e70e387f" title="Desenha o menu na tela. " alt="" coords="227,194,436,221"/>
+<area shape="rect" id="node3" href="$class_controlador_de_dados.html#a5da4552d661683cdabc27212a6b378ad" title="Redesenha a tela do usuário. " alt="" coords="498,5,642,47"/>
+<area shape="rect" id="node5" href="$class_controlador_do_menu_geral.html#a8f98b0cd2ae4fc131bdd5c49c3dbb646" title="Redesenha a tela do usuário. " alt="" coords="485,71,655,112"/>
+<area shape="rect" id="node7" href="$class_controlador_de_operacoes.html#a40402a1e236e4940cc9a5c94e755ccec" title="Redesenha a tela do usuário. " alt="" coords="485,136,655,177"/>
+<area shape="rect" id="node9" href="$class_controlador_de_resultados.html#a8e33b487fa68064f52b4e416a84b8add" title="Redesenha a tela do usuário. " alt="" coords="484,201,656,243"/>
+</map>

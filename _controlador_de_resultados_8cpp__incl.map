@@ -1,0 +1,16 @@
+<map id="src/Controller/ControladorDeResultados.cpp" name="src/Controller/ControladorDeResultados.cpp">
+<area shape="rect" id="node2" href="$_controlador_de_resultados_8h.html" title="../../include/Controller\l/ControladorDeResultados.h" alt="" coords="1151,95,1337,136"/>
+<area shape="rect" id="node3" href="$_controlador_8h.html" title="Controlador.h" alt="" coords="195,519,295,546"/>
+<area shape="rect" id="node7" href="$_menu_resultados_8h.html" title="../View/MenuResultados.h" alt="" coords="875,363,1051,389"/>
+<area shape="rect" id="node13" href="$_nota_8h.html" title="../Model/Nota.h" alt="" coords="1569,601,1681,628"/>
+<area shape="rect" id="node15" href="$_auxiliar_de_exibicao_de_informacoes_8h.html" title="../View/AuxiliarDeExibicao\lDeInformacoes.h" alt="" coords="1385,512,1562,553"/>
+<area shape="rect" id="node17" href="$_nota_service_8h.html" title="../Service/NotaService.h" alt="" coords="1075,363,1240,389"/>
+<area shape="rect" id="node22" href="$_processador_de_resultados_service_8h.html" title="../Service/ProcessadorDe\lResultadosService.h" alt="" coords="1477,184,1649,225"/>
+<area shape="rect" id="node23" href="$_processador_de_dados_service_8h.html" title="../Service/ProcessadorDe\lDadosService.h" alt="" coords="1246,273,1418,315"/>
+<area shape="rect" id="node4" href="$_evento_8h.html" title="../Evento.h" alt="" coords="277,601,363,628"/>
+<area shape="rect" id="node5" href="$_observador_8h.html" title="../Observador.h" alt="" coords="581,601,693,628"/>
+<area shape="rect" id="node8" href="$_menu_8h.html" title="Menu.h" alt="" coords="441,437,506,464"/>
+<area shape="rect" id="node11" href="$_view_8h.html" title="View.h" alt="" coords="443,519,506,546"/>
+<area shape="rect" id="node18" href="$_nota_d_a_o_8h.html" title="../Model/NotaDAO.h" alt="" coords="895,437,1036,464"/>
+<area shape="rect" id="node19" href="$_model_8h.html" title="../Model/Model.h" alt="" coords="886,519,1005,546"/>
+</map>

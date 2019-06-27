@@ -1,0 +1,5 @@
+<map id="ControladorDeDados" name="ControladorDeDados">
+<area shape="rect" id="node2" href="$class_controlador.html" title="Classe abstrata base dos controladores. " alt="" coords="96,131,273,296"/>
+<area shape="rect" id="node3" href="$class_evento.html" title="Classe abstrata que define os eventos do sistema. " alt="" coords="5,5,183,83"/>
+<area shape="rect" id="node4" href="$class_observador.html" title="Classe abstrata que define os observadores. " alt="" coords="207,5,344,83"/>
+</map>

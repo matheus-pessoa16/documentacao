@@ -1,0 +1,8 @@
+<map id="MenuResultados::desenheMenu" name="MenuResultados::desenheMenu">
+<area shape="rect" id="node2" href="$class_menu.html#a569b47e1700311a4cb74abc7e08a5785" title="Desenha itens do menu. " alt="" coords="280,5,453,32"/>
+<area shape="rect" id="node3" href="$class_menu_resultados.html#a9c9b41291cae5e9bf98eecb1b37869dc" title="Lê os dados do usuário. " alt="" coords="269,56,464,83"/>
+<area shape="rect" id="node4" href="$class_menu_resultados.html#a4579e0224d698abf92ff289a3aadd3b5" title="Retorna dados lidos. " alt="" coords="263,107,471,149"/>
+<area shape="rect" id="node5" href="$class_menu_resultados.html#a7a8876037a145ee7da28a0ceec70dc9d" title="Guarda o item de um menu. " alt="" coords="290,173,443,214"/>
+<area shape="rect" id="node7" href="$class_view.html#aa774c9b1d538067cf596b7f1b295dc7f" title="Envia eventos para as classes registradas. " alt="" coords="277,239,456,265"/>
+<area shape="rect" id="node6" href="$class_menu.html#a2624cab7001a349fee35f80375130876" title="Retorna opcao selecionada. " alt="" coords="519,180,705,207"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Menu::adicioneItem" name="Menu::adicioneItem">
+<area shape="rect" id="node2" href="$class_menu_dados.html#a37ce497ad259bfaf80da78ec62245f1f" title="Inicializa os itens do menu. " alt="" coords="203,22,358,49"/>
+<area shape="rect" id="node4" href="$class_menu_geral.html#a82d04369059915ac4ca26d3ad7c44983" title="Inicializa os itens do menu. " alt="" coords="207,82,354,109"/>
+<area shape="rect" id="node6" href="$class_menu_operacoes.html#aa4f1ce427ff864dd57246305774971c1" title="Inicializa os itens do menu. " alt="" coords="191,137,370,163"/>
+<area shape="rect" id="node8" href="$class_menu_resultados.html#a0e72265a9be5674c3532dd1bf97013ca" title="Inicializa os itens do menu. " alt="" coords="189,194,372,221"/>
+<area shape="rect" id="node3" href="$class_controlador_de_dados.html#a2dc688e007e52b43cb280138baae958a" title="Inicializa o MenuDados. " alt="" coords="434,5,578,47"/>
+<area shape="rect" id="node5" href="$class_controlador_do_menu_geral.html#add36c430192bb96dbac15b5a6ed8bcd6" title="Inicializa o MenuGeral. " alt="" coords="421,71,591,112"/>
+<area shape="rect" id="node7" href="$class_controlador_de_operacoes.html#a36bd0e3698f96710d1634cec69f6f59c" title="Inicializa o MenuOperacoes. " alt="" coords="421,136,591,177"/>
+<area shape="rect" id="node9" href="$class_controlador_de_resultados.html#ab9896a11e18ef366ffddcffbd22702c0" title="Inicializa o MenuResultados. " alt="" coords="420,201,592,243"/>
+</map>

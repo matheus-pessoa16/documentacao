@@ -1,0 +1,4 @@
+<map id="NotaService::deleteDaMemoria" name="NotaService::deleteDaMemoria">
+<area shape="rect" id="node2" href="$class_nota_d_a_o.html#a336e605e03bbabd0374607ca9fefe790" title="Remove uma lista do banco. " alt="" coords="257,5,436,32"/>
+<area shape="rect" id="node3" href="$class_model.html#a71c929a028a47ac3cde689900471d6d7" title="Notifica mudanças aos observadores registrados. " alt="" coords="484,5,659,32"/>
+</map>
